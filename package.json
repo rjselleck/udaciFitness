@@ -15,6 +15,7 @@
     "react": "~16.11.0",
     "react-dom": "~16.11.0",
     "react-native": "~0.62.2",
+    "react-native-calendars": "latest",
     "react-native-gesture-handler": "~1.6.1",
     "react-native-reanimated": "~1.9.0",
     "react-native-screens": "~2.9.0",
@@ -22,7 +23,7 @@
     "react-native-web": "~0.11.7",
     "react-redux": "^7.2.1",
     "redux": "^4.0.5",
-    "react-native-calendars": "latest"
+    "udacifitness-calendar-fix": "^10.1.0"
   },
   "devDependencies": {
     "@babel/core": "~7.9.0",
